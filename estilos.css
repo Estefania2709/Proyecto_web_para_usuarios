@@ -1,0 +1,45 @@
+body{
+    background-color: #9edbff;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.buttons{
+    background-color: #006c74;
+    border-radius: 50px;
+    margin-bottom: 50px;
+    color: whitesmoke;
+    border: none;
+    padding: 20px;
+    border-color: aqua;
+}
+ 
+option{
+    color: rgb(55, 55, 102);
+}
+
+.users{
+    background-color: #50bbc3;
+    color: whitesmoke ;
+}
+
+.posts{
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+    align-items: center;    
+}
+
+.comments{
+    border-style: double;
+    color: brown;
+    height: 300px;
+}
+
+
+.information{
+    border-style: solid;
+    color: rgb(5, 5, 5);
+    padding: 30px;
+    width: 250px;
+}
